@@ -1,6 +1,6 @@
-# Sports Shop Inventory
+# Retail Shop Inventory
 
-React inventory and billing dashboard for sports shops, with Supabase sync, low-stock tracking, reports, receipts, and AI-assisted product content.
+React inventory and billing dashboard for retail shops, with Supabase sync, low-stock tracking, reports, receipts, and AI-assisted product content.
 
 ## Features
 
